@@ -1,7 +1,11 @@
 # atividadepoo
 primeira atividade valendo nota da cadeira de programação orientada a objetos
 
-O Banco é uma instituição financeira que oferece serviços bancários aos clientes. O Registro é um sistema de cadastro, listagem e exclusão de clientes. O Cliente é uma pessoa física que tem uma ou mais contas bancárias no banco. A Conta é um serviço bancário que permite ao cliente guardar e movimentar dinheiro. O Telefone e Endereço são informações adicionais que os clientes podem fornecer para contato e identificação.
+O Banco é uma instituição financeira que oferece serviços bancários aos clientes. 
+O Registro é um sistema de cadastro, listagem e exclusão de clientes. 
+O Cliente é uma pessoa física que tem uma ou mais contas bancárias no banco.
+A Conta é um serviço bancário que permite ao cliente guardar e movimentar dinheiro. 
+O Telefone e Endereço são informações adicionais que os clientes podem fornecer para contato e identificação.
 
 Na tela inical, o programa deve apresentar um menu com as opções de 1-cadastrar cliente, 2-listar clientes, 3-excluir clientes e 4-sair do programa. As opções 1 a 3 são funções implementadas no Registro.
 
